@@ -98,9 +98,6 @@
 
     /* contact-section */
 
-    .contact-section{
-        margin-bottom: 20px;
-    }
     .contact-container{
         flex-direction: column-reverse;
         justify-content: flex-start;
@@ -109,6 +106,7 @@
     }
     .contact-form{
         width: 100%;
+        margin-bottom: 20px;
     }
     .form{
         width: 100%;
